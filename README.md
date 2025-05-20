@@ -18,7 +18,6 @@
 
 * 1x Seeeduino XIAO RP2040
 * 4x Cherry MX Switches
-* 2x 4.7kΩ resistors
 * 4x SK6812MINI LED
 * 4x m3 screws and corresponding nuts
 * 4x DSA Keycaps
@@ -29,7 +28,7 @@
 
 ## Firmware
 
-The firmware is written in 
+The firmware is written in KMK
 ---
 
 ## CAD
@@ -39,25 +38,11 @@ The 3D-printable case is designed in Onshape
 
 ## PCB
 
-The PCB design files are located in the `PCB/production/` directory:
+pcb
 ![image](https://github.com/user-attachments/assets/33fc4abc-b5fa-4e6f-a768-14ba97383bbe)
+schematic
+![image](https://github.com/user-attachments/assets/7898c9bb-cb93-461d-9a6f-45d1f7f7b314)
+
 
 ---
 
-## License
-
-This project is licensed under the Zlib License. See the [LICENSE](LICENSE) file for details.
-
----
-
-## Credits
-
-Inspired by the [orpheuspad](https://github.com/hackclub/hackpad/blob/main/hackpads/orpheuspad/README.md) project by Hack Club.
-
----
-
-For more details, visit the [DailyPad GitHub Repository](https://github.com/CyberBrainiac1/DailyPad).
-
----
-
-[1]: https://github.com/mhucka/readmine?utm_source=chatgpt.com "mhucka/readmine: Example README file demonstrating a ... - GitHub"

@@ -1,6 +1,6 @@
 # DailyPad
 
-**DailyPad** is a customizable macropad designed to enhance daily productivity. Built with open-source tools and hardware, it's perfect for developers, makers, and anyone looking to streamline their workflow.
+**DailyPad** is a customizable macropad designed to enhance daily productivity. Built with open-source tools and hardware, it's perfect for developers, makers, and anyone looking to streamline their workflow. Right now it is programmed to take me to the websites I use the most in my daily life.
 
 ---
 

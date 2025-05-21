@@ -40,6 +40,8 @@ The 3D-printable case is designed in Onshape
 
 pcb
 ![image](https://github.com/user-attachments/assets/33fc4abc-b5fa-4e6f-a768-14ba97383bbe)
+
+
 schematic
 ![image](https://github.com/user-attachments/assets/7898c9bb-cb93-461d-9a6f-45d1f7f7b314)
 
